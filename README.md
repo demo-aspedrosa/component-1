@@ -1,1 +1,1 @@
-# template-project-1
+# component-1
